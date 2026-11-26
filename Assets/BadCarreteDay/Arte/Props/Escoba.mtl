@@ -1,0 +1,27 @@
+newmtl Escoba_0
+Kd 0.290 0.000 0.000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Escoba_1
+Kd 0.550 0.320 0.080
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Escoba_2
+Kd 0.000 0.110 1.000
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl Escoba_3
+Kd 0.290 0.290 0.290
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1

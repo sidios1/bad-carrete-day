@@ -1,0 +1,3 @@
+Escoba.obj — "Broom" por Poly by Google (poly.pizza/m/bzCi_ZLQPN4), licencia CC-BY 3.0. Convertida de .glb a .obj.
+../Animales/Toby_Dog.fbx — "Dog" del Animal Pack Vol.2 por Quaternius (opengameart.org/content/animated-animales-low-poly), licencia CC0.
+Cuchillo.obj — "Knife" por Quaternius (poly.pizza/m/N9bfPFP1hr), licencia CC0. Convertido de .glb a .obj.
